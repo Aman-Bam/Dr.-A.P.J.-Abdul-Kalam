@@ -4,7 +4,8 @@ A beautiful, responsive tribute webpage honoring the life, achievements, and leg
 
 ## 📸 Preview
 
-![Screenshot]![Screenshot 2025-06-30 151308](https://github.com/user-attachments/assets/8b83ded5-2424-48fc-b7f7-f12176c940d2) ![Screenshot 2025-06-30 151320](https://github.com/user-attachments/assets/57c35e5c-99f9-4559-8e59-19501590c46d)
+![Screenshot] ![Screenshot 2025-06-30 151308](https://github.com/user-attachments/assets/45fd30ff-e79c-492a-b216-1ae22ad3bd3d)
+ ![Screenshot 2025-06-30 151320](https://github.com/user-attachments/assets/57c35e5c-99f9-4559-8e59-19501590c46d)
 
 
 ## 🧾 Features
