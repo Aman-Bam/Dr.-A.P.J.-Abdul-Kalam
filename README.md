@@ -32,14 +32,6 @@ A beautiful, responsive tribute webpage honoring the life, achievements, and leg
 
 Dr. A.P.J. Abdul Kalam was an Indian aerospace scientist and the 11th President of India. Revered for his role in developing India's missile and nuclear programs, he was known for his humility, wisdom, and vision for youth empowerment and education.
 
-## 📦 Deployment Suggestions
-
-You can host this tribute site on any static hosting service:
-
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
-- [Vercel](https://vercel.com/)
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — use it freely and modify as needed.
