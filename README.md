@@ -3,9 +3,10 @@
 A beautiful, responsive tribute webpage honoring the life, achievements, and legacy of Dr. A.P.J. Abdul Kalam — India's "Missile Man" and 11th President.
 
 ## 📸 Preview
+![Screenshot 2025-07-02 083742](https://github.com/user-attachments/assets/d3956b86-1046-4e62-828b-e2e55f885799)
+![Screenshot 2025-07-02 083800](https://github.com/user-attachments/assets/65f7d82a-f62f-4fb0-b85b-641397b2001c)
 
-![Screenshot] ![Screenshot 2025-06-30 151308](https://github.com/user-attachments/assets/45fd30ff-e79c-492a-b216-1ae22ad3bd3d)
- ![Screenshot 2025-06-30 151320](https://github.com/user-attachments/assets/57c35e5c-99f9-4559-8e59-19501590c46d)
+
 
 
 ## 🧾 Features
